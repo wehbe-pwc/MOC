@@ -1,6 +1,7 @@
 @font-face {
     font-family: "effra-arabic";
-    src: url("https://raw.githubusercontent.com/wehbe-pwc/MOC/blob/main/Effra_Regular.f9ef151c.woff2") format("woff2"), local('effra-arabic');
-    font-weight: normal;
     font-style: normal;
-}
+    font-weight: 400;
+    font-display: swap;
+    src: url('Effra_Regular.f9ef151c.woff2') format('woff2'), local('effra-arabic');
+    }
